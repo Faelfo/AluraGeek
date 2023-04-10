@@ -1,0 +1,68 @@
+.input{
+    height: 3.75rem;
+    width: 18.75rem;
+    border-radius: 0.313rem;
+    box-sizing: border-box;
+}
+
+.input__container{
+    padding-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 18.75rem;
+}
+
+.input:focus {
+    outline: none;
+}
+
+.botao:hover{
+    background-color: #030405;
+    cursor: pointer;
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+
+.formulario__legenda{
+    font-weight: bold;
+    font-size: 1.25rem;
+    padding-bottom: 2rem;
+}
+
+fieldset{
+    border-style: none;
+}
+
+.input__mensagem__erro{
+    display: none;
+}
+
+.input__container__invalido .input__mensagem__erro{
+    display: block;
+    color: #df2525;
+}
+
+.input__container__invalido .input {
+    border: 0.188rem solid #df2525
+}
+.input__titulo{
+    color: #000000;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+.input__label{
+    display: none;
+}
+
+/*enviar img*/
+.input__label__arquivo{
+    display: none;
+}
+
+#arquivo{
+    height: 3.75rem;
+    width: 18.75rem;
+    border-radius: 0.313rem;
+    box-sizing: border-box;
+}

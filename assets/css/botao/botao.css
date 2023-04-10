@@ -1,0 +1,52 @@
+.botao{
+    height: 3rem;
+    width: 9.5rem;
+    border-color: #2A7AE4;
+    color: #000000;
+    transition: 0.5s;
+    border-radius: 1rem;
+    background-color: transparent;
+}
+
+.botao__login{
+    width: 6.25rem;
+    height: 2.5rem;
+    background-color: transparent;
+    border-radius: 1rem;
+    border-color: #2A7AE4;
+    color: #000000;
+    transition: 0.5s;
+}
+
+.botao__login:hover, .botao:hover{
+    cursor: pointer;
+    transform: scale(1.3);
+}
+
+.botao__banner{
+    height: 2.5rem;
+    width: 9.5rem;
+    border-color: #2A7AE4;
+    color: #ffffff;
+    transition: 0.5s;
+    border-radius: 1rem;
+    background: transparent;
+}
+
+.botao__banner:hover{    
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+/*responsivo*/
+
+@media screen and (max-width: 768px){
+    .botao__login{
+        width: 5rem;
+    }
+
+    .botao__banner{
+        width: 5.63rem;
+        height: 1.875rem;
+    }
+}

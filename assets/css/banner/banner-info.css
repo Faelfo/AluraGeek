@@ -1,0 +1,19 @@
+.banner__info{
+    position: absolute;
+    color: #ffffff;
+    top: 25%;
+    left: 2%;
+    height: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 768px){
+    .banner__info{
+        top: 15%;
+        font-size: 0.625rem;
+        height: 6rem;
+    }
+}
+

@@ -1,0 +1,46 @@
+{
+  "produto": [
+    {
+      "imagem": "https://trello.com/1/cards/64345b738142e8c302a3d249/attachments/64345b9cc583daf7bee68fcc/download/console.png",
+      "nome": "Controle",
+      "preco": "R$ 70,00",
+      "id": 1
+    },
+    {
+      "imagem": "https://trello.com/1/cards/64345b738142e8c302a3d249/attachments/64345c22ab78db7c8c87aa50/download/console5.png",
+      "nome": "Xbox",
+      "preco": "R$ 2.000,00",
+      "id": 2
+    },
+    {
+      "imagem": "https://trello.com/1/cards/64345b738142e8c302a3d249/attachments/64345c21eca539da87a9d45e/download/console4.png",
+      "nome": "Nintendo",
+      "preco": "R$ 500,00",
+      "id": 3
+    },
+    {
+      "imagem": "https://trello.com/1/cards/64345b738142e8c302a3d249/attachments/64345c1fcdce55f3016c8a7b/download/console3.png",
+      "nome": "Atari",
+      "preco": "R$ 1000,00",
+      "id": 4
+    },
+    {
+      "imagem": "https://trello.com/1/cards/64345b738142e8c302a3d249/attachments/64345c1e12ae95db3997e25e/download/console2.png",
+      "nome": "PS5",
+      "preco": "R$ 2500,00",
+      "id": 5
+    },
+    {
+      "imagem": "https://trello.com/1/cards/64345b738142e8c302a3d249/attachments/64345c2320e8b31965233ea2/download/console6.png",
+      "nome": "GameBoy",
+      "preco": "R$ 170,00",
+      "id": 6
+    },
+    {
+      "imagem": "https://trello.com/1/cards/64345b738142e8c302a3d249/attachments/64345ceae0b77054a0804e27/download/diversos3.png",
+      "nome": "Sonic",
+      "preco": "R$ 150,00",
+      "id": 7
+    }
+  ]
+}

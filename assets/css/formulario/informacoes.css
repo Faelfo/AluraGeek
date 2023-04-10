@@ -1,0 +1,24 @@
+.inf__complementar {
+    display: flex;
+    width: 20rem;
+
+}
+
+.logo__inf-completar {
+    display: flex;
+    align-items: top;
+    flex-direction: row;
+    margin-bottom: 2rem;
+}
+
+.lista__informacoes {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.item__link {
+    color: var(--cinza-escuro);
+    font-size: 1rem;
+    font-weight: var(--font-weight-medium);
+}
